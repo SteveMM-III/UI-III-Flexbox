@@ -70,8 +70,9 @@ h1, h2, h3, h4, h5 {
   margin: 0 auto;
 }
 
-/* above copied from index.css 
-   my additions */
+/* above copied from index.css */
+
+/*   my additions */
 
 .container header, .container header nav,
 .services, .categories, .categories section,
@@ -127,6 +128,7 @@ header nav a {
 .categories section button {
   width: 150px;
   height: 30px;
+  border: 2px solid black ;
   border-radius: 5px;
   background-color: white;
 }
